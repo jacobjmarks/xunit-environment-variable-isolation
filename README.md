@@ -2,11 +2,11 @@
 
 The following repository contains a subset of choice solutions discussed in the following blog post article:
 
-**[Isolating Environment Variables in xUnit Tests &#124; these are my thoughts](https://thoughts.jacobjmarks.dev/posts/20230225-isolating-environment-variables-in-xunit-tests/)**
+**[Isolating Environment Variables in xUnit Tests &#124; these are my thoughts](https://thoughts.jacobjmarks.dev/posts/20230301-isolating-environment-variables-in-xunit-tests/)**
 
 > _When testing systems that utilise environment variables at runtime, careful consideration needs to be given to the design of both the system, if governed, and the test suite to avoid unexpected and seemingly irreproducible runtime and assertion failures when these variables are used in parallel._
 >
-> [Read more](https://thoughts.jacobjmarks.dev/posts/20230225-isolating-environment-variables-in-xunit-tests/)
+> [Read more](https://thoughts.jacobjmarks.dev/posts/20230301-isolating-environment-variables-in-xunit-tests/)
 
 ## Contents
 
